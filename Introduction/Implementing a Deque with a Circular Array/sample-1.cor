@@ -1,0 +1,13 @@
+Size: 1; last element: 5
+Size: 2; first element: 3
+Size: 3; first element: 7
+First element: 7
+5 removed
+Size: 2
+3 removed
+7 removed
+Size: 1; first element: 6
+Last element: 6
+Size: 2; first element: 8
+Deque is not empty
+Last element: 6

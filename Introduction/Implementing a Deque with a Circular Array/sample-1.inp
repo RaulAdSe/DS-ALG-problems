@@ -1,0 +1,13 @@
+add_last 5
+add_first 3
+add_first 7
+first
+delete_last
+len
+delete_last
+delete_last
+add_first 6
+last
+add_first 8
+is_empty
+last
